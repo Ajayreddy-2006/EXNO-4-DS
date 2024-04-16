@@ -23,8 +23,8 @@ The feature selection techniques used are:
 2.Wrapper Method
 3.Embedded Method
 
-### Developed By: Malyadri Reddy N
-### Register no: 212223100037
+### Developed By: T.Ajay
+### Register no: 212223230007
 
 ## CODING AND OUTPUT:
 
